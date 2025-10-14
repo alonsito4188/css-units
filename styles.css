@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+.header {
+    background-color: black;
+    padding: 5%;
+    font-size: 30px;
+}
+
+.header h1 {
+    color: black;
+    font-size: 1em;
+}
+
+.headera {
+    color: black;
+    font-size: 1em;
+}
+
+.gallery {
+    background-color: black;
+}
+
+.gallery img {
+    width: 20%;
+    margin: 1%;
+}
